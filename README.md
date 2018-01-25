@@ -32,6 +32,6 @@ This approach seeks to uniquely tailor the network for racing in the basements o
 
 
 
-[stata-map]: https://github.com/tonioteran/racecar-mit-nn/blob/master/map/basement_hallways_5cm.png =100x100 "Stata Tunnels Map" 
+[stata-map]: https://github.com/tonioteran/racecar-mit-nn/blob/master/map/basement_hallways_5cm.png "Stata Tunnels Map" 
 
 
